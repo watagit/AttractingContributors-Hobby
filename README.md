@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Programming
 - Trip
 - Basketball
+- Camp
