@@ -25,5 +25,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Coffee
 - Programming
 - Trip
+- Cooking
 - Basketball
 - Camp
